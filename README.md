@@ -1,4 +1,4 @@
-# COMP590 Spring 2019 Toy Coder
+# COMP 590 Spring 2019 Toy Coder
 
 This repo contains a toy video encoder that you are free to play with in and/or use as the basis for a final project.
 
