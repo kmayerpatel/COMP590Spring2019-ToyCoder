@@ -1,8 +1,8 @@
-package predres;
+package scratch;
 
 import java.util.Scanner;
 
-import predres.DifferentialIntegerDecoder.PredFunc;
+import scratch.DifferentialIntegerDecoder.PredFunc;
 
 public class Main {
 

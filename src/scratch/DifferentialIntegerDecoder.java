@@ -1,4 +1,7 @@
-package predres;
+package scratch;
+
+import predres.PredResDecoder;
+import predres.SourceUnit;
 
 public class DifferentialIntegerDecoder 
 extends PredResDecoder<Integer, Integer, Integer, Integer,  DifferentialIntegerDecoder.PredFunc, Integer[]> {
